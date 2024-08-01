@@ -1,4 +1,4 @@
-# Creating-Cohorts-of-Songs
+# Creating Cohorts of Songs
 
 In this project, I have created cohorts of songs for Spotify to aid in recommending songs to users based on relevant features. The project involved data inspection, cleaning, exploratory data analysis, feature engineering, and cluster analysis to gain insights into song characteristics and patterns.
 
